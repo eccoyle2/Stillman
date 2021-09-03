@@ -1,15 +1,15 @@
-##Stillman
+#Stillman
 
-##Stillman Lab Repository
+#Stillman Lab Repository
 
 #Collection for Data from lab Projects
 
-#Relavant help site for R
+#Relavant help sites for R
 
-#https://stackoverflow.com/
+[stack overflow for R help](https://stackoverflow.com/)
 
-#https://github.com/
+[github page](https://github.com/)
 
-#https://cran.r-project.org/bin/windows/base/ (download latest R version)
+#[download latest R version](https://cran.r-project.org/bin/windows/base/ download latest R version)
 
-#https://www.rstudio.com/products/rstudio/download/ (download latest version of R studio)
+#[download latest version of R studio](https://www.rstudio.com/products/rstudio/download/)
