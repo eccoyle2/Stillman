@@ -1,10 +1,15 @@
-Stillman
+---
+output: 
+  html_document: 
+    keep_md: yes
+---
+#Stillman**bold**
 
-Stillman Lab Repository
+#Stillman Lab Repository
 
-Collection for Data from lab Projects
+##Collection for Data from lab Projects
 
-Relavant help sites for R
+##Relavant help sites for R
 
 [stack overflow for R help](https://stackoverflow.com/)
 
