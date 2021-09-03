@@ -1,4 +1,4 @@
-Stillman**bold**
+Stillman
 
 Stillman Lab Repository
 
@@ -10,6 +10,6 @@ Relavant help sites for R
 
 [github page](https://github.com/)
 
-[download latest R version](https://cran.r-project.org/bin/windows/base/ download latest R version)
+[download latest R version](https://cran.r-project.org/bin/windows/base/)
 
 [download latest version of R studio](https://www.rstudio.com/products/rstudio/download/)
